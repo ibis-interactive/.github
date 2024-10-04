@@ -25,6 +25,8 @@ You can find our games on
 
 ## Tech Stack
 
+### Game Engine/Programming
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
   <img width="12" />
@@ -32,14 +34,29 @@ You can find our games on
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
+</div>
+
+### 3D Modeling
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
   <img width="12" />
+</div>
+
+### Illustration/Art
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Procreate-icon.png" height="30" alt="procreate logo"  />
   <img width="12" />
+</div>
+
+### Audio
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=ableton" height="30" alt="abletonlive logo"  />
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/wwise_logo_icon_249154.png" height="30" alt="wwise logo"  />
