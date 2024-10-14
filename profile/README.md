@@ -10,7 +10,7 @@ You can find our games on
 
 <!-- <img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
-### We're currently working on: _**Vinca's Magic Garden**_
+### We're currently working on: _**[Vinca's Magic Garden](https://ibis-interactive.itch.io/vincas-magic-garden)**_
 
 ### 
  
