@@ -10,7 +10,7 @@ You can find our games on
 
 <!-- <img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
-### We're currently working on: _**[Vinca's Magic Garden](https://ibis-interactive.itch.io/vincas-magic-garden)**_
+### We're currently working on: _**[Don Pepe y sus globos](https://ibis-interactive.itch.io/don-pepe-y-sus-globos)**_
 
 ### 
  
@@ -50,7 +50,7 @@ You can find our games on
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Procreate-icon.png" height="30" alt="procreate logo"  />
+  <img src="https://tabletpro.com/wp-content/uploads/2022/11/procreate.png" height="30" alt="procreate logo"  />
   <img width="12" />
 </div>
 
