@@ -1,63 +1,59 @@
-## Hi 👋!, We're Ibis Interactive
-### A passionate Game Development Team from Chile
+# 🌟 Welcome to **Ibis Interactive**! 🌟  
+**Where adventure meets creativity!**
 
-<h3 align="">
-You can find our games on
-<a href="https://ibis-interactive.itch.io" target="_blank">
-    <img src="https://static.itch.io/images/logo-white-new.svg" height="16" alt="itchio logo"  />
+
+<p align="center">
+  <img src="assets/logo/ibis_circle.gif" alt="Ibis Interactive Logo" width="150">
+</p>
+
+### 🕹️ About Us 
+We are **Ibis Interactive**, an adventurous game development studio passionate about creating immersive and captivating experiences. Our mascot, the bold and curious **bandurria**, symbolizes our spirit: colorful, creative, and ready to take flight!
+
+### 🎮 Current Project  
+Stay tuned for _**[Don Pepe y sus globos](https://ibis-interactive.itch.io/don-pepe-y-sus-globos)**_, our latest adventure! 🚀  
+>*After recalling his tragic and violent past, Don Pepe came up with a million-dollar idea: channeling that violence into... water balloons!
+Don Pepe's grand water balloon tournament has gathered the most skilled fighters in the neighborhood, who will fill and throw their water balloons until only one remains dry. Who will emerge victorious?*
+
+---
+
+### 🛠️ Tools of the Trade  
+Our creative journey is powered by: 
+- ⚙️ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="16" alt="unity logo"  /> **Unity**  
+- 🎨 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="16" alt="blender logo"  /> **Blender**, <img src="https://tabletpro.com/wp-content/uploads/2022/11/procreate.png" height="19" alt="procreate logo"  /> **Procreate**,<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="16" alt="photoshop logo"  />  **Photoshop**  
+- 🎵 <img src="https://skillicons.dev/icons?i=ableton" height="16" alt="abletonlive logo"  /> **Ableton Live**, <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/wwise_logo_icon_249154.png" height="16" alt="wwise logo"  /> **Wwise**
+
+---
+
+### 🖼️ Sneak Peek  
+<p align="center">
+  <img src="assets/games/don-pepe/don-pepe.png" alt="Don Pepe y sus globos Logo" width="400">
+  </p>
+<p align="center">
+  <img src="assets/games/don-pepe/don_pepe.png" alt="Logo de Ibis Interactive" width="120">
+  <img src="assets/games/don-pepe/Alex_Hit.png" alt="Logo de Ibis Interactive" width="120">
+  <img src="assets/games/don-pepe/Leo_Hit.png" alt="Logo de Ibis Interactive" width="120">
+  <img src="assets/games/don-pepe/Nat_Hurt.png" alt="Logo de Ibis Interactive" width="120">
+  <img src="assets/games/don-pepe/Hana_Idle.png" alt="Logo de Ibis Interactive" width="120">
+</p>
+
+---
+
+### 🚀 Join Us  
+We love connecting with fellow adventurers! Whether you're a developer, artist, or just a fan of games, feel free to explore our projects, give feedback, or say hello.  
+
+
+<p align="center">
+  <a href="https://ibis-interactive.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-ff4646?style=for-the-badge&logo=world&logoColor=white" alt="Website">
   </a>
-</h3>
-
-<!-- <img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
-
-### We're currently working on: _**[Don Pepe y sus globos](https://ibis-interactive.itch.io/don-pepe-y-sus-globos)**_
-
-### 
- 
-## Socials
-
   <a href="https://instagram.com/ibisinteractive" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="ibisinteractive@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:ibisinteractive@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Contact%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Us">
   </a>
+</p>
 
-## Tech Stack
-
-### Game Engine/Programming
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-</div>
-
-### 3D Modeling
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-</div>
-
-### Illustration/Art
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://tabletpro.com/wp-content/uploads/2022/11/procreate.png" height="30" alt="procreate logo"  />
-  <img width="12" />
-</div>
-
-### Audio
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ableton" height="30" alt="abletonlive logo"  />
-  <img width="12" />
-  <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/wwise_logo_icon_249154.png" height="30" alt="wwise logo"  />
-</div>
+<p align="center">
+  <em>“Take flight with Ibis Interactive – because every game is an adventure waiting to happen!”</em>
+</p>
