@@ -10,7 +10,7 @@
 We are **Ibis Interactive**, an adventurous game development studio passionate about creating immersive and captivating experiences. Our mascot, the bold and curious **bandurria**, symbolizes our spirit: colorful, creative, and ready to take flight!
 
 ### 🎮 Current Project  
-Stay tuned for _**[Don Pepe y sus globos](https://ibis-interactive.itch.io/don-pepe-y-sus-globos)**_, our latest adventure! 🚀  
+Stay tuned for _**[Don Pepe y sus globos](https://store.steampowered.com/app/4079810/Don_Pepe_y_sus_globos/)**_, our latest adventure! 🚀  
 >*After recalling his tragic and violent past, Don Pepe came up with a million-dollar idea: channeling that violence into... water balloons!
 Don Pepe's grand water balloon tournament has gathered the most skilled fighters in the neighborhood, who will fill and throw their water balloons until only one remains dry. Who will emerge victorious?*
 
@@ -18,8 +18,8 @@ Don Pepe's grand water balloon tournament has gathered the most skilled fighters
 
 ### 🛠️ Tools of the Trade  
 Our creative journey is powered by: 
-- ⚙️ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="16" alt="unity logo"  /> **Unity**  
-- 🎨 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="16" alt="blender logo"  /> **Blender**, <img src="https://tabletpro.com/wp-content/uploads/2022/11/procreate.png" height="19" alt="procreate logo"  /> **Procreate**,<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="16" alt="photoshop logo"  />  **Photoshop**  
+- ⚙️ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="16" alt="unity logo"/> **Unity**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="16" alt="git logo"/> **Git**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="16" alt="vscode logo"/> **VS Code**  
+- 🎨 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="16" alt="blender logo"/> **Blender**, <img src="https://procreate-assets-cdn.procreate.com/_nuxt/apple-icon.DmK-mlNX.png" height="19" alt="procreate logo"/> **Procreate**
 - 🎵 <img src="https://skillicons.dev/icons?i=ableton" height="16" alt="abletonlive logo"  /> **Ableton Live**, <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/wwise_logo_icon_249154.png" height="16" alt="wwise logo"  /> **Wwise**
 
 ---
@@ -43,7 +43,7 @@ We love connecting with fellow adventurers! Whether you're a developer, artist, 
 
 
 <p align="center">
-  <a href="https://ibis-interactive.github.io" target="_blank">
+  <a href="https://ibisinteractive.cl" target="_blank">
     <img src="https://img.shields.io/badge/-Website-ff4646?style=for-the-badge&logo=world&logoColor=white" alt="Website">
   </a>
   <a href="https://instagram.com/ibisinteractive" target="_blank">
