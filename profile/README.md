@@ -29,11 +29,11 @@ Our creative journey is powered by:
   <img src="assets/games/don-pepe/don-pepe.png" alt="Don Pepe y sus globos Logo" width="400">
   </p>
 <p align="center">
-  <img src="assets/games/don-pepe/don_pepe.png" alt="Logo de Ibis Interactive" width="120">
-  <img src="assets/games/don-pepe/Alex_Hit.png" alt="Logo de Ibis Interactive" width="120">
-  <img src="assets/games/don-pepe/Leo_Hit.png" alt="Logo de Ibis Interactive" width="120">
-  <img src="assets/games/don-pepe/Nat_Hurt.png" alt="Logo de Ibis Interactive" width="120">
-  <img src="assets/games/don-pepe/Hana_Idle.png" alt="Logo de Ibis Interactive" width="120">
+  <img src="assets/games/don-pepe/ka_Hana.png" alt="Key Art Hana" width="120">
+  <img src="assets/games/don-pepe/ka_Leo.png" alt="Key Art Leo" width="120">
+  <img src="assets/games/don-pepe/ka_Nat.png" alt="Key Art Nat" width="120">
+  <img src="assets/games/don-pepe/ka_Alex.png" alt="Key Art Alex" width="120">
+  <img src="assets/games/don-pepe/library_logo.png" alt="Logo Don Pepe y Sus Globos" width="120">
 </p>
 
 ---
